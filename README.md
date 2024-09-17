@@ -1,2 +1,1 @@
-# hello-world
- "This repository is for practicing the GitHub Flow."
+# here learing about the basics if github!!
